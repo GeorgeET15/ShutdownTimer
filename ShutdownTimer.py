@@ -18,7 +18,7 @@ root.title("Shutdown Timer")
 root.geometry("300x150")
 root.resizable(False, False)
 root.configure(bg="#101418")
-icon_path = "C:/Users/IRONM/Desktop/ShutdownTimer/com_94378.ico"  # Replace with the path to your icon file
+icon_path = "C:/Users/IRONM/Desktop/ShutdownTimer/App.ico"  # Replace with the path to your icon file
 root.iconbitmap(icon_path)
 
 # Set a different font
